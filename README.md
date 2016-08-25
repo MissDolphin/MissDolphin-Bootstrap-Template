@@ -18,4 +18,7 @@
 1. Open the repository with atom
 2. Change `_variables.scss` and/or `_bootswatch.scss` file
 3. Open `application.scss` and save the file
+
+   ![image](https://cloud.githubusercontent.com/assets/1463415/17979107/e379dee6-6aad-11e6-8bc1-81954b2c6baa.png)
+
 4. Double click `index.html` to review the changes
