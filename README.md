@@ -4,8 +4,10 @@
 
 1. Install [atom](https://atom.io/)
 2. Install [node.js](http://nodejs.org/)
-3. Clone or donwload this reporsitory
-4. Run
+3. Clone or donwload this repository
+4. Bring up command prompt and go to the repository
+5. Run command
+
    ```sh
    npm install node-sass -g
    npm install
