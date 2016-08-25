@@ -13,6 +13,7 @@
    npm install
    apm install sass-autocompile
    ```
+   
 ## Change style
 1. Open the repository with atom
 2. Change `_variables.scss` and/or `_bootswatch.scss` file
