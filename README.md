@@ -1,5 +1,5 @@
 # MissDolphin Bootstrap Template
----
+
 ## Requirements
 
 1. Install [atom](https://atom.io/)
@@ -13,3 +13,8 @@
    npm install
    apm install sass-autocompile
    ```
+## Change style
+1. Open the repository with atom
+2. Change `_variables.scss` and/or `_bootswatch.scss` file
+3. Open `application.scss` and save the file
+4. Double click `index.html` to review the changes
