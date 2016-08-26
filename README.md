@@ -9,8 +9,8 @@
 5. Run command
 
    ```sh
-   npm install node-sass -g
-   npm install
+   sudo npm install node-sass -g
+   sudo npm install
    apm install sass-autocompile
    ```
    
