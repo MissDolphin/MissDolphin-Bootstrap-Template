@@ -1,0 +1,8 @@
+{
+  "name": "miss-dolphin-bootstrap-template",
+  "version": "1.0.0",
+  "description": "Miss Dolphin bootstrap template",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}
